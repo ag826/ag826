@@ -5,11 +5,17 @@ As a Data Science graduate student at Duke University (Class of '26), I am passi
 I completed my Bachelor's degree from Shiv Nadar University in Mechanical Engineering with a specialization in Materials Sciences (focusing on Nanostructured Functionalized Surfaces) and a minor from the Department of Computer Science and Engineering. Beyond academics and professional work, I'm also a Podcast Host, an Emcee, an Investor, a Researcher, and a two-time All-India level Double Gold Medalist in Taekwondo.
 
 ## Skills
-💻 **Languages:** C, Java, Python(Pandas, NumPy, PySpark, Matplotlib), SQL
+![](Skills.png)
+
+💻 **Languages:** C, Java, Python(Pandas, NumPy, PySpark, Matplotlib), SQL, RUST, R
 
 🛠 **Softwares:** AWS (S3, Athena, Redshift, EMR), MS Office (Excel, Powerpoint), Databricks, Tableau
 
 🎓 **Certifications:** Advanced Data Analytics (Google), Advanced SQL (Kaggle), Intermediate Machine Learning (Kaggle)
+
+## The Journey Here
+
+![](Journey.png)
 
 ## Impact Delivered
 -	Analysed and forecasted treatment patterns for 19K+ oncologists in the US lymphoma market, applying predictive modelling techniques to forecast market trends. 
